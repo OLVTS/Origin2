@@ -1,3 +1,4 @@
+# requirements
 aiogram==3.4.1
 sqlalchemy==2.0.30
 asyncpg==0.29.0
